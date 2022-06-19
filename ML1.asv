@@ -1,0 +1,61 @@
+tic
+clc;
+
+clear all;
+
+   % The program section to time. dddddddddddddddddddddddddddddddd
+toc
+%%
+tic
+   % The program section to time. dddddddddddddddddddddddddddddddd
+toc
+%%
+tic
+A1 = [9.9, 9900];
+A2 = [8.8,  7.7 ; ...
+      8800, 7700];
+formatSpec = 'X is %4.2f meters or %8.3f mm\n';
+fprintf(formatSpec,A1,A2)
+toc
+%%
+tic
+x = 100*rand(8,1);
+fileID = fopen('nums1.txt','w');
+fprintf(fileID,'%4.4f\n',x);
+fclose(fileID);
+toc
+
+fileID = fopen('nums1.txt','r');
+formatSpec = '%f'
+A = fscanf(fileID,formatSpec)
+
+%%
+tic
+clear all;
+%패킷 해더 생성
+P = 00000001
+% UDP (셔틀카 2번에게 전송)
+D = 000002
+% 호스트 주소(셔틀카 넘버)
+S = 000001
+% 데이터종류
+T = 10
+
+%Ft_C_ID = fopen
+Ft_C_ID =3
+Lati =37.41094
+Logi =127.09929
+
+S_C = 0
+%기어 넘버
+G_N = 3
+%히든노드 받은게 없으므로 처음엔 0
+H = 0
+
+
+
+Header = [P D S T]
+Data = 
+
+
+toc

@@ -1,0 +1,1807 @@
+0		{6}
+numOfRows	:	50
+pageNo	:	1
+resultCode	:	0
+resultMsg	:	NORMAL_SERVICE
+totalCount	:	487297
+	gpsInsFileList		[50]
+	0		{35}
+coll_dt	:	2021-11-11-14-16-08
+coll_sqnc	:	00
+hdr_sqnc	:	3160
+ss_num	:	1636607768
+nano_ss_num	:	480069571
+ins_ss_num	:	1636607585
+ins_nano_ss_num	:	609999895
+src_cont	:	ins
+gps_stts_cd	:	04
+gps_srvc_dvsn_cd	:	01
+latitude	:	37.410948406168416
+longitude	:	127.09929775273115
+altitude	:	59.30009460449219
+lctn_covar_cont	:	[0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0]
+lctn_covar_type_cd	:	01
+twst_linr_x_crdn	:	0.0068
+twst_linr_y_crdn	:	-0.0017
+twst_linr_z_crdn	:	-0.0032
+twst_angl_x_crdn	:	0
+twst_angl_y_crdn	:	0
+twst_angl_z_crdn	:	0
+covar_cont	:	[0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0]
+x_axis_drct	:	-0.019072429754805283
+y_axis_drct	:	-0.018975266775859333
+z_axis_drct	:	0.9990954907854867
+w_axis_drct	:	0.032929955453060364
+drct_covar_val	:	[0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0]
+x_axis_angl_sped	:	-0.00249
+y_axis_angl_sped	:	-0.00222
+z_axis_angl_sped	:	0.0014700000000000002
+angl_sped_covar_val	:	[0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0]
+x_axis_linr_acrat	:	0.35900000000000004
+y_axis_linr_acrat	:	0.37220000000000003
+z_axis_linr_acrat	:	9.7108
+linr_acrat_covar_val	:	[0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0]
+	1		{35}
+coll_dt	:	2021-11-11-14-16-08
+coll_sqnc	:	00
+hdr_sqnc	:	3161
+ss_num	:	1636607768
+nano_ss_num	:	480069571
+ins_ss_num	:	1636607585
+ins_nano_ss_num	:	609999895
+src_cont	:	ins
+gps_stts_cd	:	04
+gps_srvc_dvsn_cd	:	01
+latitude	:	37.41094840600387
+longitude	:	127.0992977534402
+altitude	:	59.300071716308594
+lctn_covar_cont	:	[0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0]
+lctn_covar_type_cd	:	01
+twst_linr_x_crdn	:	0.0066
+twst_linr_y_crdn	:	-0.0018
+twst_linr_z_crdn	:	-0.0029
+twst_angl_x_crdn	:	0
+twst_angl_y_crdn	:	0
+twst_angl_z_crdn	:	0
+covar_cont	:	[0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0]
+x_axis_drct	:	-0.01908047125818551
+y_axis_drct	:	-0.01896666014485232
+z_axis_drct	:	0.9990957973106016
+w_axis_drct	:	0.032920954053740285
+drct_covar_val	:	[0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0]
+x_axis_angl_sped	:	0.0016400000000000002
+y_axis_angl_sped	:	0.00184
+z_axis_angl_sped	:	0.0017400000000000002
+angl_sped_covar_val	:	[0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0]
+x_axis_linr_acrat	:	0.37170000000000003
+y_axis_linr_acrat	:	0.41240000000000004
+z_axis_linr_acrat	:	9.8172
+linr_acrat_covar_val	:	[0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0]
+	2		{35}
+coll_dt	:	2021-11-11-14-16-08
+coll_sqnc	:	00
+hdr_sqnc	:	3162
+ss_num	:	1636607768
+nano_ss_num	:	480069571
+ins_ss_num	:	1636607585
+ins_nano_ss_num	:	609999895
+src_cont	:	ins
+gps_stts_cd	:	04
+gps_srvc_dvsn_cd	:	01
+latitude	:	37.41094840587696
+longitude	:	127.0992977542034
+altitude	:	59.300052642822266
+lctn_covar_cont	:	[0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0]
+lctn_covar_type_cd	:	01
+twst_linr_x_crdn	:	0.0065
+twst_linr_y_crdn	:	-0.0016
+twst_linr_z_crdn	:	-0.0025
+twst_angl_x_crdn	:	0
+twst_angl_y_crdn	:	0
+twst_angl_z_crdn	:	0
+covar_cont	:	[0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0]
+x_axis_drct	:	-0.01907831841424019
+y_axis_drct	:	-0.01897155848880632
+z_axis_drct	:	0.999095434107327
+w_axis_drct	:	0.032930400557576865
+drct_covar_val	:	[0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0]
+x_axis_angl_sped	:	-0.0010400000000000001
+y_axis_angl_sped	:	-0.0006100000000000001
+z_axis_angl_sped	:	-0.0018000000000000002
+angl_sped_covar_val	:	[0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0]
+x_axis_linr_acrat	:	0.3486
+y_axis_linr_acrat	:	0.3922
+z_axis_linr_acrat	:	9.8228
+linr_acrat_covar_val	:	[0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0]
+	3		{35}
+coll_dt	:	2021-11-11-14-16-08
+coll_sqnc	:	00
+hdr_sqnc	:	3163
+ss_num	:	1636607768
+nano_ss_num	:	480069571
+ins_ss_num	:	1636607585
+ins_nano_ss_num	:	609999895
+src_cont	:	ins
+gps_stts_cd	:	04
+gps_srvc_dvsn_cd	:	01
+latitude	:	37.41094840583492
+longitude	:	127.09929774943387
+altitude	:	59.29997634887695
+lctn_covar_cont	:	[0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0]
+lctn_covar_type_cd	:	01
+twst_linr_x_crdn	:	0.0064
+twst_linr_y_crdn	:	-0.0017
+twst_linr_z_crdn	:	-0.0032
+twst_angl_x_crdn	:	0
+twst_angl_y_crdn	:	0
+twst_angl_z_crdn	:	0
+covar_cont	:	[0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0]
+x_axis_drct	:	-0.019076710994143768
+y_axis_drct	:	-0.018970686179535696
+z_axis_drct	:	0.9990956114506999
+w_axis_drct	:	0.032926453551449145
+drct_covar_val	:	[0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0]
+x_axis_angl_sped	:	-0.00014000000000000001
+y_axis_angl_sped	:	-0.00026000000000000003
+z_axis_angl_sped	:	0.00136
+angl_sped_covar_val	:	[0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0]
+x_axis_linr_acrat	:	0.36310000000000003
+y_axis_linr_acrat	:	0.369
+z_axis_linr_acrat	:	9.7196
+linr_acrat_covar_val	:	[0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0]
+	4		{35}
+coll_dt	:	2021-11-11-14-16-08
+coll_sqnc	:	00
+hdr_sqnc	:	3164
+ss_num	:	1636607768
+nano_ss_num	:	480069571
+ins_ss_num	:	1636607585
+ins_nano_ss_num	:	609999895
+src_cont	:	ins
+gps_stts_cd	:	04
+gps_srvc_dvsn_cd	:	01
+latitude	:	37.410948405663845
+longitude	:	127.09929775010023
+altitude	:	59.299949645996094
+lctn_covar_cont	:	[0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0]
+lctn_covar_type_cd	:	01
+twst_linr_x_crdn	:	0.0062
+twst_linr_y_crdn	:	-0.0018
+twst_linr_z_crdn	:	-0.0029
+twst_angl_x_crdn	:	0
+twst_angl_y_crdn	:	0
+twst_angl_z_crdn	:	0
+covar_cont	:	[0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0]
+x_axis_drct	:	-0.01908560582557609
+y_axis_drct	:	-0.01896893241067394
+z_axis_drct	:	0.9990955622322917
+w_axis_drct	:	0.03292380265417618
+drct_covar_val	:	[0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0]
+x_axis_angl_sped	:	0.00027
+y_axis_angl_sped	:	0.0018900000000000002
+z_axis_angl_sped	:	0.00041000000000000005
+angl_sped_covar_val	:	[0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0]
+x_axis_linr_acrat	:	0.3763
+y_axis_linr_acrat	:	0.41050000000000003
+z_axis_linr_acrat	:	9.8088
+linr_acrat_covar_val	:	[0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0]
+	5		{35}
+coll_dt	:	2021-11-11-14-16-08
+coll_sqnc	:	00
+hdr_sqnc	:	3165
+ss_num	:	1636607768
+nano_ss_num	:	480069571
+ins_ss_num	:	1636607585
+ins_nano_ss_num	:	609999895
+src_cont	:	ins
+gps_stts_cd	:	04
+gps_srvc_dvsn_cd	:	01
+latitude	:	37.41094840556164
+longitude	:	127.09929775081191
+altitude	:	59.299930572509766
+lctn_covar_cont	:	[0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0]
+lctn_covar_type_cd	:	01
+twst_linr_x_crdn	:	0.0061
+twst_linr_y_crdn	:	-0.0015
+twst_linr_z_crdn	:	-0.0026
+twst_angl_x_crdn	:	0
+twst_angl_y_crdn	:	0
+twst_angl_z_crdn	:	0
+covar_cont	:	[0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0]
+x_axis_drct	:	-0.019085529949693765
+y_axis_drct	:	-0.018969008752945486
+z_axis_drct	:	0.9990956939195095
+w_axis_drct	:	0.03291980627166397
+drct_covar_val	:	[0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0]
+x_axis_angl_sped	:	2e-05
+y_axis_angl_sped	:	0
+z_axis_angl_sped	:	0.0008600000000000001
+angl_sped_covar_val	:	[0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0]
+x_axis_linr_acrat	:	0.33640000000000003
+y_axis_linr_acrat	:	0.3905
+z_axis_linr_acrat	:	9.8213
+linr_acrat_covar_val	:	[0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0]
+	6		{35}
+coll_dt	:	2021-11-11-14-16-08
+coll_sqnc	:	00
+hdr_sqnc	:	3166
+ss_num	:	1636607768
+nano_ss_num	:	480069571
+ins_ss_num	:	1636607585
+ins_nano_ss_num	:	609999895
+src_cont	:	ins
+gps_stts_cd	:	04
+gps_srvc_dvsn_cd	:	01
+latitude	:	37.41094840550769
+longitude	:	127.0992977461476
+altitude	:	59.29985427856445
+lctn_covar_cont	:	[0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0]
+lctn_covar_type_cd	:	01
+twst_linr_x_crdn	:	0.006
+twst_linr_y_crdn	:	-0.0017
+twst_linr_z_crdn	:	-0.0031
+twst_angl_x_crdn	:	0
+twst_angl_y_crdn	:	0
+twst_angl_z_crdn	:	0
+covar_cont	:	[0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0]
+x_axis_drct	:	-0.0190717245706073
+y_axis_drct	:	-0.018972909829791825
+z_axis_drct	:	0.9990957611279044
+w_axis_drct	:	0.03292351911243498
+drct_covar_val	:	[0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0]
+x_axis_angl_sped	:	-0.0011200000000000001
+y_axis_angl_sped	:	-0.0027300000000000002
+z_axis_angl_sped	:	-4e-05
+angl_sped_covar_val	:	[0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0]
+x_axis_linr_acrat	:	0.3798
+y_axis_linr_acrat	:	0.37320000000000003
+z_axis_linr_acrat	:	9.733600000000001
+linr_acrat_covar_val	:	[0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0]
+	7		{35}
+coll_dt	:	2021-11-11-14-16-08
+coll_sqnc	:	00
+hdr_sqnc	:	3167
+ss_num	:	1636607768
+nano_ss_num	:	480069571
+ins_ss_num	:	1636607585
+ins_nano_ss_num	:	609999895
+src_cont	:	ins
+gps_stts_cd	:	04
+gps_srvc_dvsn_cd	:	01
+latitude	:	37.41094840534712
+longitude	:	127.09929774679622
+altitude	:	59.299827575683594
+lctn_covar_cont	:	[0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0]
+lctn_covar_type_cd	:	01
+twst_linr_x_crdn	:	0.0059
+twst_linr_y_crdn	:	-0.0017
+twst_linr_z_crdn	:	-0.0029
+twst_angl_x_crdn	:	0
+twst_angl_y_crdn	:	0
+twst_angl_z_crdn	:	0
+covar_cont	:	[0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0]
+x_axis_drct	:	-0.01907685665048187
+y_axis_drct	:	-0.01897570073422193
+z_axis_drct	:	0.999095549510639
+w_axis_drct	:	0.032925359071949406
+drct_covar_val	:	[0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0]
+x_axis_angl_sped	:	-0.00063
+y_axis_angl_sped	:	0.0009600000000000001
+z_axis_angl_sped	:	-0.0004
+angl_sped_covar_val	:	[0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0]
+x_axis_linr_acrat	:	0.36610000000000004
+y_axis_linr_acrat	:	0.39830000000000004
+z_axis_linr_acrat	:	9.7996
+linr_acrat_covar_val	:	[0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0]
+	8		{35}
+coll_dt	:	2021-11-11-14-16-08
+coll_sqnc	:	00
+hdr_sqnc	:	3168
+ss_num	:	1636607768
+nano_ss_num	:	480069571
+ins_ss_num	:	1636607585
+ins_nano_ss_num	:	609999895
+src_cont	:	ins
+gps_stts_cd	:	04
+gps_srvc_dvsn_cd	:	01
+latitude	:	37.410948405244035
+longitude	:	127.09929774744488
+altitude	:	59.299808502197266
+lctn_covar_cont	:	[0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0]
+lctn_covar_type_cd	:	01
+twst_linr_x_crdn	:	0.0057
+twst_linr_y_crdn	:	-0.0016
+twst_linr_z_crdn	:	-0.0027
+twst_angl_x_crdn	:	0
+twst_angl_y_crdn	:	0
+twst_angl_z_crdn	:	0
+covar_cont	:	[0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0]
+x_axis_drct	:	-0.019071675185307176
+y_axis_drct	:	-0.018971411186128787
+z_axis_drct	:	0.9990957895861452
+w_axis_drct	:	0.032923547719984805
+drct_covar_val	:	[0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0]
+x_axis_angl_sped	:	0.0008900000000000001
+y_axis_angl_sped	:	-0.00102
+z_axis_angl_sped	:	0.0005200000000000001
+angl_sped_covar_val	:	[0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0]
+x_axis_linr_acrat	:	0.3471
+y_axis_linr_acrat	:	0.40180000000000005
+z_axis_linr_acrat	:	9.8055
+linr_acrat_covar_val	:	[0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0]
+	9		{35}
+coll_dt	:	2021-11-11-14-16-08
+coll_sqnc	:	00
+hdr_sqnc	:	3169
+ss_num	:	1636607768
+nano_ss_num	:	480069571
+ins_ss_num	:	1636607585
+ins_nano_ss_num	:	609999895
+src_cont	:	ins
+gps_stts_cd	:	04
+gps_srvc_dvsn_cd	:	01
+latitude	:	37.41094840518598
+longitude	:	127.09929774289475
+altitude	:	59.29973602294922
+lctn_covar_cont	:	[0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0]
+lctn_covar_type_cd	:	01
+twst_linr_x_crdn	:	0.0057
+twst_linr_y_crdn	:	-0.0017
+twst_linr_z_crdn	:	-0.003
+twst_angl_x_crdn	:	0
+twst_angl_y_crdn	:	0
+twst_angl_z_crdn	:	0
+covar_cont	:	[0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0]
+x_axis_drct	:	-0.01906085136448043
+y_axis_drct	:	-0.018980387968219863
+z_axis_drct	:	0.9990960211870249
+w_axis_drct	:	0.03291761331100603
+drct_covar_val	:	[0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0]
+x_axis_angl_sped	:	-0.0019600000000000004
+y_axis_angl_sped	:	-0.0021200000000000004
+z_axis_angl_sped	:	0.0017800000000000001
+angl_sped_covar_val	:	[0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0]
+x_axis_linr_acrat	:	0.3694
+y_axis_linr_acrat	:	0.3634
+z_axis_linr_acrat	:	9.756
+linr_acrat_covar_val	:	[0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0]
+	10		{35}
+coll_dt	:	2021-11-11-14-16-08
+coll_sqnc	:	00
+hdr_sqnc	:	3170
+ss_num	:	1636607768
+nano_ss_num	:	579965058
+ins_ss_num	:	1636607585
+ins_nano_ss_num	:	710000038
+src_cont	:	ins
+gps_stts_cd	:	04
+gps_srvc_dvsn_cd	:	01
+latitude	:	37.41094840502478
+longitude	:	127.09929774350053
+altitude	:	59.29970932006836
+lctn_covar_cont	:	[0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0]
+lctn_covar_type_cd	:	01
+twst_linr_x_crdn	:	0.0055
+twst_linr_y_crdn	:	-0.0017
+twst_linr_z_crdn	:	-0.0028
+twst_angl_x_crdn	:	0
+twst_angl_y_crdn	:	0
+twst_angl_z_crdn	:	0
+covar_cont	:	[0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0]
+x_axis_drct	:	-0.019065084953781248
+y_axis_drct	:	-0.018968113981860966
+z_axis_drct	:	0.9990959385190441
+w_axis_drct	:	0.03292474483464589
+drct_covar_val	:	[0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0]
+x_axis_angl_sped	:	0.0022600000000000003
+y_axis_angl_sped	:	0.0008500000000000001
+z_axis_angl_sped	:	-0.00133
+angl_sped_covar_val	:	[0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0]
+x_axis_linr_acrat	:	0.3679
+y_axis_linr_acrat	:	0.40280000000000005
+z_axis_linr_acrat	:	9.808300000000001
+linr_acrat_covar_val	:	[0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0]
+	11		{35}
+coll_dt	:	2021-11-11-14-16-08
+coll_sqnc	:	00
+hdr_sqnc	:	3171
+ss_num	:	1636607768
+nano_ss_num	:	579965058
+ins_ss_num	:	1636607585
+ins_nano_ss_num	:	710000038
+src_cont	:	ins
+gps_stts_cd	:	04
+gps_srvc_dvsn_cd	:	01
+latitude	:	37.41094840489764
+longitude	:	127.09929774410665
+altitude	:	59.2996826171875
+lctn_covar_cont	:	[0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0]
+lctn_covar_type_cd	:	01
+twst_linr_x_crdn	:	0.0055
+twst_linr_y_crdn	:	-0.0017
+twst_linr_z_crdn	:	-0.0028
+twst_angl_x_crdn	:	0
+twst_angl_y_crdn	:	0
+twst_angl_z_crdn	:	0
+covar_cont	:	[0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0]
+x_axis_drct	:	-0.01906012251891792
+y_axis_drct	:	-0.018969281310165263
+z_axis_drct	:	0.9990960083393794
+w_axis_drct	:	0.03292482674910106
+drct_covar_val	:	[0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0]
+x_axis_angl_sped	:	-0.00023
+y_axis_angl_sped	:	-0.001
+z_axis_angl_sped	:	3.0000000000000004e-05
+angl_sped_covar_val	:	[0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0]
+x_axis_linr_acrat	:	0.3551
+y_axis_linr_acrat	:	0.3901
+z_axis_linr_acrat	:	9.780700000000001
+linr_acrat_covar_val	:	[0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0]
+	12		{35}
+coll_dt	:	2021-11-11-14-16-08
+coll_sqnc	:	00
+hdr_sqnc	:	3172
+ss_num	:	1636607768
+nano_ss_num	:	579965058
+ins_ss_num	:	1636607585
+ins_nano_ss_num	:	710000038
+src_cont	:	ins
+gps_stts_cd	:	04
+gps_srvc_dvsn_cd	:	01
+latitude	:	37.41094840482944
+longitude	:	127.09929773967413
+altitude	:	59.29961013793945
+lctn_covar_cont	:	[0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0]
+lctn_covar_type_cd	:	01
+twst_linr_x_crdn	:	0.0055
+twst_linr_y_crdn	:	-0.0017
+twst_linr_z_crdn	:	-0.0029
+twst_angl_x_crdn	:	0
+twst_angl_y_crdn	:	0
+twst_angl_z_crdn	:	0
+covar_cont	:	[0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0]
+x_axis_drct	:	-0.019066062550826015
+y_axis_drct	:	-0.018968618015467814
+z_axis_drct	:	0.9990959771214903
+w_axis_drct	:	0.032922716914700285
+drct_covar_val	:	[0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0]
+x_axis_angl_sped	:	-0.00017
+y_axis_angl_sped	:	0.00135
+z_axis_angl_sped	:	0.0008300000000000001
+angl_sped_covar_val	:	[0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0]
+x_axis_linr_acrat	:	0.3657
+y_axis_linr_acrat	:	0.3633
+z_axis_linr_acrat	:	9.7734
+linr_acrat_covar_val	:	[0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0]
+	13		{35}
+coll_dt	:	2021-11-11-14-16-08
+coll_sqnc	:	00
+hdr_sqnc	:	3173
+ss_num	:	1636607768
+nano_ss_num	:	579965058
+ins_ss_num	:	1636607585
+ins_nano_ss_num	:	710000038
+src_cont	:	ins
+gps_stts_cd	:	04
+gps_srvc_dvsn_cd	:	01
+latitude	:	37.41094840466199
+longitude	:	127.09929774025467
+altitude	:	59.29958724975586
+lctn_covar_cont	:	[0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0]
+lctn_covar_type_cd	:	01
+twst_linr_x_crdn	:	0.0053
+twst_linr_y_crdn	:	-0.0018
+twst_linr_z_crdn	:	-0.0027
+twst_angl_x_crdn	:	0
+twst_angl_y_crdn	:	0
+twst_angl_z_crdn	:	0
+covar_cont	:	[0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0]
+x_axis_drct	:	-0.019061705392753252
+y_axis_drct	:	-0.01897327487860031
+z_axis_drct	:	0.9990959881290796
+w_axis_drct	:	0.03292222246870527
+drct_covar_val	:	[0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0]
+x_axis_angl_sped	:	-0.00102
+y_axis_angl_sped	:	-0.00093
+z_axis_angl_sped	:	0.00016
+angl_sped_covar_val	:	[0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0]
+x_axis_linr_acrat	:	0.36910000000000004
+y_axis_linr_acrat	:	0.403
+z_axis_linr_acrat	:	9.8126
+linr_acrat_covar_val	:	[0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0]
+	14		{35}
+coll_dt	:	2021-11-11-14-16-08
+coll_sqnc	:	00
+hdr_sqnc	:	3174
+ss_num	:	1636607768
+nano_ss_num	:	579965058
+ins_ss_num	:	1636607585
+ins_nano_ss_num	:	710000038
+src_cont	:	ins
+gps_stts_cd	:	04
+gps_srvc_dvsn_cd	:	01
+latitude	:	37.41094840452345
+longitude	:	127.09929774084559
+altitude	:	59.299556732177734
+lctn_covar_cont	:	[0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0]
+lctn_covar_type_cd	:	01
+twst_linr_x_crdn	:	0.0053
+twst_linr_y_crdn	:	-0.0017
+twst_linr_z_crdn	:	-0.0028
+twst_angl_x_crdn	:	0
+twst_angl_y_crdn	:	0
+twst_angl_z_crdn	:	0
+covar_cont	:	[0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0]
+x_axis_drct	:	-0.01907469889425685
+y_axis_drct	:	-0.018969735306700482
+z_axis_drct	:	0.9990956330352819
+w_axis_drct	:	0.032927512118541
+drct_covar_val	:	[0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0]
+x_axis_angl_sped	:	0.0005300000000000001
+y_axis_angl_sped	:	0.00253
+z_axis_angl_sped	:	-0.00116
+angl_sped_covar_val	:	[0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0]
+x_axis_linr_acrat	:	0.3558
+y_axis_linr_acrat	:	0.38870000000000005
+z_axis_linr_acrat	:	9.769300000000001
+linr_acrat_covar_val	:	[0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0]
+	15		{35}
+coll_dt	:	2021-11-11-14-16-08
+coll_sqnc	:	00
+hdr_sqnc	:	3175
+ss_num	:	1636607768
+nano_ss_num	:	579965058
+ins_ss_num	:	1636607585
+ins_nano_ss_num	:	710000038
+src_cont	:	ins
+gps_stts_cd	:	04
+gps_srvc_dvsn_cd	:	01
+latitude	:	37.410948404439644
+longitude	:	127.0992977365199
+altitude	:	59.29948806762695
+lctn_covar_cont	:	[0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0]
+lctn_covar_type_cd	:	01
+twst_linr_x_crdn	:	0.0052
+twst_linr_y_crdn	:	-0.0019
+twst_linr_z_crdn	:	-0.0029
+twst_angl_x_crdn	:	0
+twst_angl_y_crdn	:	0
+twst_angl_z_crdn	:	0
+covar_cont	:	[0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0]
+x_axis_drct	:	-0.019076375729520013
+y_axis_drct	:	-0.018956056218891036
+z_axis_drct	:	0.9990956394420437
+w_axis_drct	:	0.03293422337851912
+drct_covar_val	:	[0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0]
+x_axis_angl_sped	:	0.0024200000000000003
+y_axis_angl_sped	:	0.00041000000000000005
+z_axis_angl_sped	:	-0.00079
+angl_sped_covar_val	:	[0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0]
+x_axis_linr_acrat	:	0.37070000000000003
+y_axis_linr_acrat	:	0.37010000000000004
+z_axis_linr_acrat	:	9.7745
+linr_acrat_covar_val	:	[0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0]
+	16		{35}
+coll_dt	:	2021-11-11-14-16-08
+coll_sqnc	:	00
+hdr_sqnc	:	3176
+ss_num	:	1636607768
+nano_ss_num	:	579965058
+ins_ss_num	:	1636607585
+ins_nano_ss_num	:	710000038
+src_cont	:	ins
+gps_stts_cd	:	04
+gps_srvc_dvsn_cd	:	01
+latitude	:	37.41094840427429
+longitude	:	127.09929773708203
+altitude	:	59.29946517944336
+lctn_covar_cont	:	[0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0]
+lctn_covar_type_cd	:	01
+twst_linr_x_crdn	:	0.0051
+twst_linr_y_crdn	:	-0.0018
+twst_linr_z_crdn	:	-0.0026
+twst_angl_x_crdn	:	0
+twst_angl_y_crdn	:	0
+twst_angl_z_crdn	:	0
+covar_cont	:	[0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0]
+x_axis_drct	:	-0.019057048516852908
+y_axis_drct	:	-0.018963782407257084
+z_axis_drct	:	0.9990959848146824
+w_axis_drct	:	0.03293048717854573
+drct_covar_val	:	[0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0]
+x_axis_angl_sped	:	-0.0014900000000000002
+y_axis_angl_sped	:	-0.0038400000000000005
+z_axis_angl_sped	:	0.00099
+angl_sped_covar_val	:	[0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0]
+x_axis_linr_acrat	:	0.3622
+y_axis_linr_acrat	:	0.3976
+z_axis_linr_acrat	:	9.8178
+linr_acrat_covar_val	:	[0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0]
+	17		{35}
+coll_dt	:	2021-11-11-14-16-08
+coll_sqnc	:	00
+hdr_sqnc	:	3177
+ss_num	:	1636607768
+nano_ss_num	:	579965058
+ins_ss_num	:	1636607585
+ins_nano_ss_num	:	710000038
+src_cont	:	ins
+gps_stts_cd	:	04
+gps_srvc_dvsn_cd	:	01
+latitude	:	37.41094840412055
+longitude	:	127.09929773764671
+altitude	:	59.29943084716797
+lctn_covar_cont	:	[0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0]
+lctn_covar_type_cd	:	01
+twst_linr_x_crdn	:	0.005
+twst_linr_y_crdn	:	-0.0019
+twst_linr_z_crdn	:	-0.0029
+twst_angl_x_crdn	:	0
+twst_angl_y_crdn	:	0
+twst_angl_z_crdn	:	0
+covar_cont	:	[0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0]
+x_axis_drct	:	-0.019059591108160988
+y_axis_drct	:	-0.01896416923638039
+z_axis_drct	:	0.9990958815518997
+w_axis_drct	:	0.032931925816692534
+drct_covar_val	:	[0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0]
+x_axis_angl_sped	:	-0.00019
+y_axis_angl_sped	:	0.00048000000000000007
+z_axis_angl_sped	:	-0.00030000000000000003
+angl_sped_covar_val	:	[0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0]
+x_axis_linr_acrat	:	0.36310000000000003
+y_axis_linr_acrat	:	0.3911
+z_axis_linr_acrat	:	9.7569
+linr_acrat_covar_val	:	[0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0]
+	18		{35}
+coll_dt	:	2021-11-11-14-16-08
+coll_sqnc	:	00
+hdr_sqnc	:	3178
+ss_num	:	1636607768
+nano_ss_num	:	579965058
+ins_ss_num	:	1636607585
+ins_nano_ss_num	:	710000038
+src_cont	:	ins
+gps_stts_cd	:	04
+gps_srvc_dvsn_cd	:	01
+latitude	:	37.410948404020594
+longitude	:	127.09929773342726
+altitude	:	59.29936599731445
+lctn_covar_cont	:	[0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0]
+lctn_covar_type_cd	:	01
+twst_linr_x_crdn	:	0.005
+twst_linr_y_crdn	:	-0.002
+twst_linr_z_crdn	:	-0.0029
+twst_angl_x_crdn	:	0
+twst_angl_y_crdn	:	0
+twst_angl_z_crdn	:	0
+covar_cont	:	[0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0]
+x_axis_drct	:	-0.01906764615321802
+y_axis_drct	:	-0.018958645570596448
+z_axis_drct	:	0.9990962793751436
+w_axis_drct	:	0.03291837126968842
+drct_covar_val	:	[0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0]
+x_axis_angl_sped	:	0.00103
+y_axis_angl_sped	:	0.0018800000000000002
+z_axis_angl_sped	:	0.0030600000000000002
+angl_sped_covar_val	:	[0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0]
+x_axis_linr_acrat	:	0.3704
+y_axis_linr_acrat	:	0.37
+z_axis_linr_acrat	:	9.781600000000001
+linr_acrat_covar_val	:	[0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0]
+	19		{35}
+coll_dt	:	2021-11-11-14-16-08
+coll_sqnc	:	00
+hdr_sqnc	:	3179
+ss_num	:	1636607768
+nano_ss_num	:	579965058
+ins_ss_num	:	1636607585
+ins_nano_ss_num	:	710000038
+src_cont	:	ins
+gps_stts_cd	:	04
+gps_srvc_dvsn_cd	:	01
+latitude	:	37.41094840386872
+longitude	:	127.09929773396301
+altitude	:	59.29934310913086
+lctn_covar_cont	:	[0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0]
+lctn_covar_type_cd	:	01
+twst_linr_x_crdn	:	0.0049
+twst_linr_y_crdn	:	-0.0018
+twst_linr_z_crdn	:	-0.0025
+twst_angl_x_crdn	:	0
+twst_angl_y_crdn	:	0
+twst_angl_z_crdn	:	0
+covar_cont	:	[0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0]
+x_axis_drct	:	-0.019064226690113328
+y_axis_drct	:	-0.018962298275697044
+z_axis_drct	:	0.999096341015178
+w_axis_drct	:	0.03291637700134942
+drct_covar_val	:	[0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0]
+x_axis_angl_sped	:	-0.0008
+y_axis_angl_sped	:	-0.0007400000000000001
+z_axis_angl_sped	:	0.0005700000000000001
+angl_sped_covar_val	:	[0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0]
+x_axis_linr_acrat	:	0.34900000000000003
+y_axis_linr_acrat	:	0.3977
+z_axis_linr_acrat	:	9.8215
+linr_acrat_covar_val	:	[0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0]
+	20		{35}
+coll_dt	:	2021-11-11-14-16-08
+coll_sqnc	:	00
+hdr_sqnc	:	3180
+ss_num	:	1636607768
+nano_ss_num	:	680053642
+ins_ss_num	:	1636607585
+ins_nano_ss_num	:	809999943
+src_cont	:	ins
+gps_stts_cd	:	04
+gps_srvc_dvsn_cd	:	01
+latitude	:	37.41094840366439
+longitude	:	127.09929773449605
+altitude	:	59.29930877685547
+lctn_covar_cont	:	[0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0]
+lctn_covar_type_cd	:	01
+twst_linr_x_crdn	:	0.0048
+twst_linr_y_crdn	:	-0.0021
+twst_linr_z_crdn	:	-0.0028
+twst_angl_x_crdn	:	0
+twst_angl_y_crdn	:	0
+twst_angl_z_crdn	:	0
+covar_cont	:	[0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0]
+x_axis_drct	:	-0.019055762060321467
+y_axis_drct	:	-0.01895687955390455
+z_axis_drct	:	0.9990962340762126
+w_axis_drct	:	0.0329276434718473
+drct_covar_val	:	[0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0]
+x_axis_angl_sped	:	0.0009400000000000001
+y_axis_angl_sped	:	-0.0017800000000000001
+z_axis_angl_sped	:	-0.00218
+angl_sped_covar_val	:	[0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0]
+x_axis_linr_acrat	:	0.38580000000000003
+y_axis_linr_acrat	:	0.3891
+z_axis_linr_acrat	:	9.7565
+linr_acrat_covar_val	:	[0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0]
+	21		{35}
+coll_dt	:	2021-11-11-14-16-08
+coll_sqnc	:	00
+hdr_sqnc	:	3181
+ss_num	:	1636607768
+nano_ss_num	:	680053642
+ins_ss_num	:	1636607585
+ins_nano_ss_num	:	809999943
+src_cont	:	ins
+gps_stts_cd	:	04
+gps_srvc_dvsn_cd	:	01
+latitude	:	37.41094840354813
+longitude	:	127.09929773038263
+altitude	:	59.29924392700195
+lctn_covar_cont	:	[0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0]
+lctn_covar_type_cd	:	01
+twst_linr_x_crdn	:	0.0048
+twst_linr_y_crdn	:	-0.0021
+twst_linr_z_crdn	:	-0.0029
+twst_angl_x_crdn	:	0
+twst_angl_y_crdn	:	0
+twst_angl_z_crdn	:	0
+covar_cont	:	[0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0]
+x_axis_drct	:	-0.019061483598115825
+y_axis_drct	:	-0.01894869442291534
+z_axis_drct	:	0.9990962956333971
+w_axis_drct	:	0.03292717531658962
+drct_covar_val	:	[0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0]
+x_axis_angl_sped	:	0.0013900000000000002
+y_axis_angl_sped	:	0.00126
+z_axis_angl_sped	:	0.0005200000000000001
+angl_sped_covar_val	:	[0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0]
+x_axis_linr_acrat	:	0.3609
+y_axis_linr_acrat	:	0.3685
+z_axis_linr_acrat	:	9.7774
+linr_acrat_covar_val	:	[0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0]
+	22		{35}
+coll_dt	:	2021-11-11-14-16-08
+coll_sqnc	:	00
+hdr_sqnc	:	3182
+ss_num	:	1636607768
+nano_ss_num	:	680053642
+ins_ss_num	:	1636607585
+ins_nano_ss_num	:	809999943
+src_cont	:	ins
+gps_stts_cd	:	04
+gps_srvc_dvsn_cd	:	01
+latitude	:	37.41094840340122
+longitude	:	127.09929773087819
+altitude	:	59.29922103881836
+lctn_covar_cont	:	[0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0]
+lctn_covar_type_cd	:	01
+twst_linr_x_crdn	:	0.0046
+twst_linr_y_crdn	:	-0.0019
+twst_linr_z_crdn	:	-0.0026
+twst_angl_x_crdn	:	0
+twst_angl_y_crdn	:	0
+twst_angl_z_crdn	:	0
+covar_cont	:	[0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0]
+x_axis_drct	:	-0.019065780942675775
+y_axis_drct	:	-0.018946678274736388
+z_axis_drct	:	0.9990964840730215
+w_axis_drct	:	0.032920128984044957
+drct_covar_val	:	[0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0]
+x_axis_angl_sped	:	0.00043000000000000004
+y_axis_angl_sped	:	0.00093
+z_axis_angl_sped	:	0.00141
+angl_sped_covar_val	:	[0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0]
+x_axis_linr_acrat	:	0.3403
+y_axis_linr_acrat	:	0.4045
+z_axis_linr_acrat	:	9.812100000000001
+linr_acrat_covar_val	:	[0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0]
+	23		{35}
+coll_dt	:	2021-11-11-14-16-08
+coll_sqnc	:	00
+hdr_sqnc	:	3183
+ss_num	:	1636607768
+nano_ss_num	:	680053642
+ins_ss_num	:	1636607585
+ins_nano_ss_num	:	809999943
+src_cont	:	ins
+gps_stts_cd	:	04
+gps_srvc_dvsn_cd	:	01
+latitude	:	37.41094840315047
+longitude	:	127.09929773139288
+altitude	:	59.299190521240234
+lctn_covar_cont	:	[0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0]
+lctn_covar_type_cd	:	01
+twst_linr_x_crdn	:	0.0045
+twst_linr_y_crdn	:	-0.0022
+twst_linr_z_crdn	:	-0.0028
+twst_angl_x_crdn	:	0
+twst_angl_y_crdn	:	0
+twst_angl_z_crdn	:	0
+covar_cont	:	[0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0]
+x_axis_drct	:	-0.019059680758234995
+y_axis_drct	:	-0.0189433737533096
+z_axis_drct	:	0.9990966404785798
+w_axis_drct	:	0.03292081628167845
+drct_covar_val	:	[1.3225000000000005e-06, 0.0, 0.0, 0.0, 1.3924000000000002e-06, 0.0, 0.0, 0.0, 8.408890000000002e-05]
+x_axis_angl_sped	:	0.00062
+y_axis_angl_sped	:	-0.0011400000000000002
+z_axis_angl_sped	:	3.0000000000000004e-05
+angl_sped_covar_val	:	[0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0]
+x_axis_linr_acrat	:	0.39830000000000004
+y_axis_linr_acrat	:	0.38630000000000003
+z_axis_linr_acrat	:	9.768
+linr_acrat_covar_val	:	[0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0]
+	24		{35}
+coll_dt	:	2021-11-11-14-16-08
+coll_sqnc	:	00
+hdr_sqnc	:	3184
+ss_num	:	1636607768
+nano_ss_num	:	680053642
+ins_ss_num	:	1636607585
+ins_nano_ss_num	:	809999943
+src_cont	:	ins
+gps_stts_cd	:	04
+gps_srvc_dvsn_cd	:	01
+latitude	:	37.41094840302133
+longitude	:	127.09929772737293
+altitude	:	59.29912567138672
+lctn_covar_cont	:	[0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0]
+lctn_covar_type_cd	:	01
+twst_linr_x_crdn	:	0.0045
+twst_linr_y_crdn	:	-0.0022
+twst_linr_z_crdn	:	-0.0028
+twst_angl_x_crdn	:	0
+twst_angl_y_crdn	:	0
+twst_angl_z_crdn	:	0
+covar_cont	:	[0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0]
+x_axis_drct	:	-0.01905624320483142
+y_axis_drct	:	-0.018933079442787545
+z_axis_drct	:	0.9990970571886598
+w_axis_drct	:	0.032916081399387266
+drct_covar_val	:	[0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0]
+x_axis_angl_sped	:	0.0018700000000000001
+y_axis_angl_sped	:	-0.00051
+z_axis_angl_sped	:	0.0013800000000000002
+angl_sped_covar_val	:	[0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0]
+x_axis_linr_acrat	:	0.3543
+y_axis_linr_acrat	:	0.372
+z_axis_linr_acrat	:	9.7806
+linr_acrat_covar_val	:	[0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0]
+	25		{35}
+coll_dt	:	2021-11-11-14-16-08
+coll_sqnc	:	00
+hdr_sqnc	:	3185
+ss_num	:	1636607768
+nano_ss_num	:	680053642
+ins_ss_num	:	1636607585
+ins_nano_ss_num	:	809999943
+src_cont	:	ins
+gps_stts_cd	:	04
+gps_srvc_dvsn_cd	:	01
+latitude	:	37.410948402856334
+longitude	:	127.09929772784083
+altitude	:	59.29909896850586
+lctn_covar_cont	:	[0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0]
+lctn_covar_type_cd	:	01
+twst_linr_x_crdn	:	0.0043
+twst_linr_y_crdn	:	-0.002
+twst_linr_z_crdn	:	-0.0028
+twst_angl_x_crdn	:	0
+twst_angl_y_crdn	:	0
+twst_angl_z_crdn	:	0
+covar_cont	:	[0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0]
+x_axis_drct	:	-0.019053459940052083
+y_axis_drct	:	-0.01893967448224328
+z_axis_drct	:	0.9990969873600274
+w_axis_drct	:	0.032916018029780544
+drct_covar_val	:	[0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0]
+x_axis_angl_sped	:	-0.0013200000000000002
+y_axis_angl_sped	:	-0.00062
+z_axis_angl_sped	:	0.00015000000000000001
+angl_sped_covar_val	:	[0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0]
+x_axis_linr_acrat	:	0.34490000000000004
+y_axis_linr_acrat	:	0.40080000000000005
+z_axis_linr_acrat	:	9.791400000000001
+linr_acrat_covar_val	:	[0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0]
+	26		{35}
+coll_dt	:	2021-11-11-14-16-08
+coll_sqnc	:	00
+hdr_sqnc	:	3186
+ss_num	:	1636607768
+nano_ss_num	:	680053642
+ins_ss_num	:	1636607585
+ins_nano_ss_num	:	809999943
+src_cont	:	ins
+gps_stts_cd	:	04
+gps_srvc_dvsn_cd	:	01
+latitude	:	37.410948402608504
+longitude	:	127.09929772832562
+altitude	:	59.299072265625
+lctn_covar_cont	:	[0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0]
+lctn_covar_type_cd	:	01
+twst_linr_x_crdn	:	0.0042
+twst_linr_y_crdn	:	-0.0023
+twst_linr_z_crdn	:	-0.0028
+twst_angl_x_crdn	:	0
+twst_angl_y_crdn	:	0
+twst_angl_z_crdn	:	0
+covar_cont	:	[0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0]
+x_axis_drct	:	-0.01904783540443356
+y_axis_drct	:	-0.018937409358480668
+z_axis_drct	:	0.9990972146092503
+w_axis_drct	:	0.03291367881644798
+drct_covar_val	:	[0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0]
+x_axis_angl_sped	:	0.00041000000000000005
+y_axis_angl_sped	:	-0.0011300000000000001
+z_axis_angl_sped	:	0.0005
+angl_sped_covar_val	:	[0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0]
+x_axis_linr_acrat	:	0.3875
+y_axis_linr_acrat	:	0.38680000000000003
+z_axis_linr_acrat	:	9.7779
+linr_acrat_covar_val	:	[0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0]
+	27		{35}
+coll_dt	:	2021-11-11-14-16-08
+coll_sqnc	:	00
+hdr_sqnc	:	3187
+ss_num	:	1636607768
+nano_ss_num	:	680053642
+ins_ss_num	:	1636607585
+ins_nano_ss_num	:	809999943
+src_cont	:	ins
+gps_stts_cd	:	04
+gps_srvc_dvsn_cd	:	01
+latitude	:	37.41094840314129
+longitude	:	127.09929772443512
+altitude	:	59.29902267456055
+lctn_covar_cont	:	[0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0]
+lctn_covar_type_cd	:	01
+twst_linr_x_crdn	:	0.0042
+twst_linr_y_crdn	:	-0.0023
+twst_linr_z_crdn	:	-0.0027
+twst_angl_x_crdn	:	0
+twst_angl_y_crdn	:	0
+twst_angl_z_crdn	:	0
+covar_cont	:	[0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0]
+x_axis_drct	:	-0.01904819014385514
+y_axis_drct	:	-0.018928248281117693
+z_axis_drct	:	0.999097112789684
+w_axis_drct	:	0.03292183294668905
+drct_covar_val	:	[0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0]
+x_axis_angl_sped	:	0.0015
+y_axis_angl_sped	:	-4e-05
+z_axis_angl_sped	:	-0.0011200000000000001
+angl_sped_covar_val	:	[0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0]
+x_axis_linr_acrat	:	0.3682
+y_axis_linr_acrat	:	0.372
+z_axis_linr_acrat	:	9.8041
+linr_acrat_covar_val	:	[0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0]
+	28		{35}
+coll_dt	:	2021-11-11-14-16-08
+coll_sqnc	:	00
+hdr_sqnc	:	3188
+ss_num	:	1636607768
+nano_ss_num	:	680053642
+ins_ss_num	:	1636607585
+ins_nano_ss_num	:	809999943
+src_cont	:	ins
+gps_stts_cd	:	04
+gps_srvc_dvsn_cd	:	01
+latitude	:	37.410948402985625
+longitude	:	127.09929772489048
+altitude	:	59.29899215698242
+lctn_covar_cont	:	[0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0]
+lctn_covar_type_cd	:	01
+twst_linr_x_crdn	:	0.0041
+twst_linr_y_crdn	:	-0.002
+twst_linr_z_crdn	:	-0.0029
+twst_angl_x_crdn	:	0
+twst_angl_y_crdn	:	0
+twst_angl_z_crdn	:	0
+covar_cont	:	[0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0]
+x_axis_drct	:	-0.019055369667763184
+y_axis_drct	:	-0.018932470615739223
+z_axis_drct	:	0.9990968375098731
+w_axis_drct	:	0.03292360431330781
+drct_covar_val	:	[0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0]
+x_axis_angl_sped	:	-0.00101
+y_axis_angl_sped	:	0.0014000000000000002
+z_axis_angl_sped	:	-0.00048000000000000007
+angl_sped_covar_val	:	[0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0]
+x_axis_linr_acrat	:	0.3309
+y_axis_linr_acrat	:	0.3927
+z_axis_linr_acrat	:	9.7597
+linr_acrat_covar_val	:	[0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0]
+	29		{35}
+coll_dt	:	2021-11-11-14-16-08
+coll_sqnc	:	00
+hdr_sqnc	:	3189
+ss_num	:	1636607768
+nano_ss_num	:	680053642
+ins_ss_num	:	1636607585
+ins_nano_ss_num	:	809999943
+src_cont	:	ins
+gps_stts_cd	:	04
+gps_srvc_dvsn_cd	:	01
+latitude	:	37.4109484027301
+longitude	:	127.09929772533297
+altitude	:	59.2989616394043
+lctn_covar_cont	:	[0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0]
+lctn_covar_type_cd	:	01
+twst_linr_x_crdn	:	0.004
+twst_linr_y_crdn	:	-0.0024
+twst_linr_z_crdn	:	-0.0029
+twst_angl_x_crdn	:	0
+twst_angl_y_crdn	:	0
+twst_angl_z_crdn	:	0
+covar_cont	:	[0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0]
+x_axis_drct	:	-0.01905657822690278
+y_axis_drct	:	-0.018937903419399747
+z_axis_drct	:	0.9990966662264354
+w_axis_drct	:	0.032924977989089096
+drct_covar_val	:	[0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0]
+x_axis_angl_sped	:	-0.0011200000000000001
+y_axis_angl_sped	:	0.00017
+z_axis_angl_sped	:	-0.00028000000000000003
+angl_sped_covar_val	:	[0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0]
+x_axis_linr_acrat	:	0.3965
+y_axis_linr_acrat	:	0.3907
+z_axis_linr_acrat	:	9.7878
+linr_acrat_covar_val	:	[0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0]
+	30		{35}
+coll_dt	:	2021-11-11-14-16-08
+coll_sqnc	:	00
+hdr_sqnc	:	3190
+ss_num	:	1636607768
+nano_ss_num	:	780027148
+ins_ss_num	:	1636607585
+ins_nano_ss_num	:	910000086
+src_cont	:	ins
+gps_stts_cd	:	04
+gps_srvc_dvsn_cd	:	01
+latitude	:	37.41094840323615
+longitude	:	127.09929772153185
+altitude	:	59.29891586303711
+lctn_covar_cont	:	[0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0]
+lctn_covar_type_cd	:	01
+twst_linr_x_crdn	:	0.004
+twst_linr_y_crdn	:	-0.0023
+twst_linr_z_crdn	:	-0.0025
+twst_angl_x_crdn	:	0
+twst_angl_y_crdn	:	0
+twst_angl_z_crdn	:	0
+covar_cont	:	[0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0]
+x_axis_drct	:	-0.019051268753451204
+y_axis_drct	:	-0.01892290420611625
+z_axis_drct	:	0.9990967261058964
+w_axis_drct	:	0.032934856000435636
+drct_covar_val	:	[0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0]
+x_axis_angl_sped	:	0.00269
+y_axis_angl_sped	:	-0.00118
+z_axis_angl_sped	:	-0.00144
+angl_sped_covar_val	:	[0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0]
+x_axis_linr_acrat	:	0.3598
+y_axis_linr_acrat	:	0.3765
+z_axis_linr_acrat	:	9.8241
+linr_acrat_covar_val	:	[0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0]
+	31		{35}
+coll_dt	:	2021-11-11-14-16-08
+coll_sqnc	:	00
+hdr_sqnc	:	3191
+ss_num	:	1636607768
+nano_ss_num	:	780027148
+ins_ss_num	:	1636607585
+ins_nano_ss_num	:	910000086
+src_cont	:	ins
+gps_stts_cd	:	04
+gps_srvc_dvsn_cd	:	01
+latitude	:	37.410948403067096
+longitude	:	127.09929772197675
+altitude	:	59.29888153076172
+lctn_covar_cont	:	[0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0]
+lctn_covar_type_cd	:	01
+twst_linr_x_crdn	:	0.0039
+twst_linr_y_crdn	:	-0.0021
+twst_linr_z_crdn	:	-0.003
+twst_angl_x_crdn	:	0
+twst_angl_y_crdn	:	0
+twst_angl_z_crdn	:	0
+covar_cont	:	[0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0]
+x_axis_drct	:	-0.0190464005833535
+y_axis_drct	:	-0.01892604119891802
+z_axis_drct	:	0.9990967086621307
+w_axis_drct	:	0.032936398252580296
+drct_covar_val	:	[0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0]
+x_axis_angl_sped	:	-0.00072
+y_axis_angl_sped	:	-0.0009400000000000001
+z_axis_angl_sped	:	-0.00017
+angl_sped_covar_val	:	[0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0]
+x_axis_linr_acrat	:	0.3362
+y_axis_linr_acrat	:	0.3831
+z_axis_linr_acrat	:	9.7341
+linr_acrat_covar_val	:	[0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0]
+	32		{35}
+coll_dt	:	2021-11-11-14-16-08
+coll_sqnc	:	00
+hdr_sqnc	:	3192
+ss_num	:	1636607768
+nano_ss_num	:	780027148
+ins_ss_num	:	1636607585
+ins_nano_ss_num	:	910000086
+src_cont	:	ins
+gps_stts_cd	:	04
+gps_srvc_dvsn_cd	:	01
+latitude	:	37.41094840279415
+longitude	:	127.09929772239389
+altitude	:	59.29885482788086
+lctn_covar_cont	:	[0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0]
+lctn_covar_type_cd	:	01
+twst_linr_x_crdn	:	0.0038
+twst_linr_y_crdn	:	-0.0025
+twst_linr_z_crdn	:	-0.0029
+twst_angl_x_crdn	:	0
+twst_angl_y_crdn	:	0
+twst_angl_z_crdn	:	0
+covar_cont	:	[0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0]
+x_axis_drct	:	-0.01904877445425017
+y_axis_drct	:	-0.01893021060577246
+z_axis_drct	:	0.9990970331356743
+w_axis_drct	:	0.03292278386931385
+drct_covar_val	:	[0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0]
+x_axis_angl_sped	:	-0.00068
+y_axis_angl_sped	:	0.00058
+z_axis_angl_sped	:	0.00269
+angl_sped_covar_val	:	[0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0]
+x_axis_linr_acrat	:	0.3987
+y_axis_linr_acrat	:	0.3901
+z_axis_linr_acrat	:	9.7908
+linr_acrat_covar_val	:	[0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0]
+	33		{35}
+coll_dt	:	2021-11-11-14-16-08
+coll_sqnc	:	00
+hdr_sqnc	:	3193
+ss_num	:	1636607768
+nano_ss_num	:	780027148
+ins_ss_num	:	1636607585
+ins_nano_ss_num	:	910000086
+src_cont	:	ins
+gps_stts_cd	:	04
+gps_srvc_dvsn_cd	:	01
+latitude	:	37.41094840327781
+longitude	:	127.09929771869068
+altitude	:	59.29880905151367
+lctn_covar_cont	:	[0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0]
+lctn_covar_type_cd	:	01
+twst_linr_x_crdn	:	0.0038
+twst_linr_y_crdn	:	-0.0023
+twst_linr_z_crdn	:	-0.0024
+twst_angl_x_crdn	:	0
+twst_angl_y_crdn	:	0
+twst_angl_z_crdn	:	0
+covar_cont	:	[0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0]
+x_axis_drct	:	-0.01904817446121374
+y_axis_drct	:	-0.018923619007160913
+z_axis_drct	:	0.9990969674787767
+w_axis_drct	:	0.032928912342790294
+drct_covar_val	:	[0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0]
+x_axis_angl_sped	:	0.00101
+y_axis_angl_sped	:	-0.00024000000000000003
+z_axis_angl_sped	:	-0.00084
+angl_sped_covar_val	:	[0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0]
+x_axis_linr_acrat	:	0.3472
+y_axis_linr_acrat	:	0.37620000000000003
+z_axis_linr_acrat	:	9.8377
+linr_acrat_covar_val	:	[0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0]
+	34		{35}
+coll_dt	:	2021-11-11-14-16-08
+coll_sqnc	:	00
+hdr_sqnc	:	3194
+ss_num	:	1636607768
+nano_ss_num	:	780027148
+ins_ss_num	:	1636607585
+ins_nano_ss_num	:	910000086
+src_cont	:	ins
+gps_stts_cd	:	04
+gps_srvc_dvsn_cd	:	01
+latitude	:	37.410948403076226
+longitude	:	127.09929771912792
+altitude	:	59.29877471923828
+lctn_covar_cont	:	[0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0]
+lctn_covar_type_cd	:	01
+twst_linr_x_crdn	:	0.0038
+twst_linr_y_crdn	:	-0.0023
+twst_linr_z_crdn	:	-0.003
+twst_angl_x_crdn	:	0
+twst_angl_y_crdn	:	0
+twst_angl_z_crdn	:	0
+covar_cont	:	[0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0]
+x_axis_drct	:	-0.019039906234207885
+y_axis_drct	:	-0.01892832479532412
+z_axis_drct	:	0.999096901394466
+w_axis_drct	:	0.03293299432198908
+drct_covar_val	:	[0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0]
+x_axis_angl_sped	:	-0.00103
+y_axis_angl_sped	:	-0.0017200000000000002
+z_axis_angl_sped	:	-0.0007400000000000001
+angl_sped_covar_val	:	[0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0]
+x_axis_linr_acrat	:	0.35500000000000004
+y_axis_linr_acrat	:	0.3775
+z_axis_linr_acrat	:	9.7284
+linr_acrat_covar_val	:	[0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0]
+	35		{35}
+coll_dt	:	2021-11-11-14-16-08
+coll_sqnc	:	00
+hdr_sqnc	:	3195
+ss_num	:	1636607768
+nano_ss_num	:	780027148
+ins_ss_num	:	1636607585
+ins_nano_ss_num	:	910000086
+src_cont	:	ins
+gps_stts_cd	:	04
+gps_srvc_dvsn_cd	:	01
+latitude	:	37.41094840281224
+longitude	:	127.09929771952429
+altitude	:	59.29874801635742
+lctn_covar_cont	:	[0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0]
+lctn_covar_type_cd	:	01
+twst_linr_x_crdn	:	0.0038
+twst_linr_y_crdn	:	-0.0025
+twst_linr_z_crdn	:	-0.0029
+twst_angl_x_crdn	:	0
+twst_angl_y_crdn	:	0
+twst_angl_z_crdn	:	0
+covar_cont	:	[0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0]
+x_axis_drct	:	-0.019047858881051868
+y_axis_drct	:	-0.018926547407033797
+z_axis_drct	:	0.9990967713863833
+w_axis_drct	:	0.03293336121020746
+drct_covar_val	:	[0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0]
+x_axis_angl_sped	:	0.00030000000000000003
+y_axis_angl_sped	:	0.0015600000000000002
+z_axis_angl_sped	:	-8e-05
+angl_sped_covar_val	:	[0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0]
+x_axis_linr_acrat	:	0.38470000000000004
+y_axis_linr_acrat	:	0.38680000000000003
+z_axis_linr_acrat	:	9.7887
+linr_acrat_covar_val	:	[0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0]
+	36		{35}
+coll_dt	:	2021-11-11-14-16-08
+coll_sqnc	:	00
+hdr_sqnc	:	3196
+ss_num	:	1636607768
+nano_ss_num	:	780027148
+ins_ss_num	:	1636607585
+ins_nano_ss_num	:	910000086
+src_cont	:	ins
+gps_stts_cd	:	04
+gps_srvc_dvsn_cd	:	01
+latitude	:	37.410948403271355
+longitude	:	127.09929771591297
+altitude	:	59.298702239990234
+lctn_covar_cont	:	[0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0]
+lctn_covar_type_cd	:	01
+twst_linr_x_crdn	:	0.0036
+twst_linr_y_crdn	:	-0.0023
+twst_linr_z_crdn	:	-0.0024
+twst_angl_x_crdn	:	0
+twst_angl_y_crdn	:	0
+twst_angl_z_crdn	:	0
+covar_cont	:	[0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0]
+x_axis_drct	:	-0.01904550792467059
+y_axis_drct	:	-0.018915615124121828
+z_axis_drct	:	0.9990969985409662
+w_axis_drct	:	0.03293411056640026
+drct_covar_val	:	[0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0]
+x_axis_angl_sped	:	0.0019100000000000002
+y_axis_angl_sped	:	-0.0004900000000000001
+z_axis_angl_sped	:	0.00028000000000000003
+angl_sped_covar_val	:	[0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0]
+x_axis_linr_acrat	:	0.3457
+y_axis_linr_acrat	:	0.3871
+z_axis_linr_acrat	:	9.8421
+linr_acrat_covar_val	:	[0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0]
+	37		{35}
+coll_dt	:	2021-11-11-14-16-08
+coll_sqnc	:	00
+hdr_sqnc	:	3197
+ss_num	:	1636607768
+nano_ss_num	:	780027148
+ins_ss_num	:	1636607585
+ins_nano_ss_num	:	910000086
+src_cont	:	ins
+gps_stts_cd	:	04
+gps_srvc_dvsn_cd	:	01
+latitude	:	37.41094840306783
+longitude	:	127.09929771636766
+altitude	:	59.298667907714844
+lctn_covar_cont	:	[0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0]
+lctn_covar_type_cd	:	01
+twst_linr_x_crdn	:	0.0038
+twst_linr_y_crdn	:	-0.0023
+twst_linr_z_crdn	:	-0.0029
+twst_angl_x_crdn	:	0
+twst_angl_y_crdn	:	0
+twst_angl_z_crdn	:	0
+covar_cont	:	[0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0]
+x_axis_drct	:	-0.019043120241315666
+y_axis_drct	:	-0.018922298124928138
+z_axis_drct	:	0.9990971010466847
+w_axis_drct	:	0.032928542106459756
+drct_covar_val	:	[0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0]
+x_axis_angl_sped	:	-0.0013000000000000002
+y_axis_angl_sped	:	-0.00043000000000000004
+z_axis_angl_sped	:	0.0011200000000000001
+angl_sped_covar_val	:	[0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0]
+x_axis_linr_acrat	:	0.3547
+y_axis_linr_acrat	:	0.3612
+z_axis_linr_acrat	:	9.731900000000001
+linr_acrat_covar_val	:	[0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0]
+	38		{35}
+coll_dt	:	2021-11-11-14-16-08
+coll_sqnc	:	00
+hdr_sqnc	:	3198
+ss_num	:	1636607768
+nano_ss_num	:	780027148
+ins_ss_num	:	1636607585
+ins_nano_ss_num	:	910000086
+src_cont	:	ins
+gps_stts_cd	:	04
+gps_srvc_dvsn_cd	:	01
+latitude	:	37.410948402805424
+longitude	:	127.09929771675431
+altitude	:	59.29863739013672
+lctn_covar_cont	:	[0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0]
+lctn_covar_type_cd	:	01
+twst_linr_x_crdn	:	0.0037
+twst_linr_y_crdn	:	-0.0025
+twst_linr_z_crdn	:	-0.0029
+twst_angl_x_crdn	:	0
+twst_angl_y_crdn	:	0
+twst_angl_z_crdn	:	0
+covar_cont	:	[0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0]
+x_axis_drct	:	-0.01904547600695727
+y_axis_drct	:	-0.01892235684699973
+z_axis_drct	:	0.9990973036257662
+w_axis_drct	:	0.03292099850773803
+drct_covar_val	:	[0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0]
+x_axis_angl_sped	:	-2e-05
+y_axis_angl_sped	:	0.0006100000000000001
+z_axis_angl_sped	:	0.00152
+angl_sped_covar_val	:	[0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0]
+x_axis_linr_acrat	:	0.38320000000000004
+y_axis_linr_acrat	:	0.3895
+z_axis_linr_acrat	:	9.783800000000001
+linr_acrat_covar_val	:	[0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0]
+	39		{35}
+coll_dt	:	2021-11-11-14-16-08
+coll_sqnc	:	00
+hdr_sqnc	:	3199
+ss_num	:	1636607768
+nano_ss_num	:	780027148
+ins_ss_num	:	1636607585
+ins_nano_ss_num	:	910000086
+src_cont	:	ins
+gps_stts_cd	:	04
+gps_srvc_dvsn_cd	:	01
+latitude	:	37.410948403239935
+longitude	:	127.09929771325241
+altitude	:	59.2985954284668
+lctn_covar_cont	:	[0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0]
+lctn_covar_type_cd	:	01
+twst_linr_x_crdn	:	0.0036
+twst_linr_y_crdn	:	-0.0023
+twst_linr_z_crdn	:	-0.0025
+twst_angl_x_crdn	:	0
+twst_angl_y_crdn	:	0
+twst_angl_z_crdn	:	0
+covar_cont	:	[0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0]
+x_axis_drct	:	-0.019046761008020448
+y_axis_drct	:	-0.018923583769520753
+z_axis_drct	:	0.9990968459067286
+w_axis_drct	:	0.03293343850326201
+drct_covar_val	:	[0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0]
+x_axis_angl_sped	:	-0.00054
+y_axis_angl_sped	:	-4e-05
+z_axis_angl_sped	:	-0.00216
+angl_sped_covar_val	:	[0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0]
+x_axis_linr_acrat	:	0.3467
+y_axis_linr_acrat	:	0.3815
+z_axis_linr_acrat	:	9.823400000000001
+linr_acrat_covar_val	:	[0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0]
+	40		{35}
+coll_dt	:	2021-11-11-14-16-08
+coll_sqnc	:	00
+hdr_sqnc	:	3200
+ss_num	:	1636607768
+nano_ss_num	:	880129332
+ins_ss_num	:	1636607586
+ins_nano_ss_num	:	9999990
+src_cont	:	ins
+gps_stts_cd	:	04
+gps_srvc_dvsn_cd	:	01
+latitude	:	37.4109484030307
+longitude	:	127.09929771371446
+altitude	:	59.298561096191406
+lctn_covar_cont	:	[0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0]
+lctn_covar_type_cd	:	01
+twst_linr_x_crdn	:	0.0039
+twst_linr_y_crdn	:	-0.0023
+twst_linr_z_crdn	:	-0.003
+twst_angl_x_crdn	:	0
+twst_angl_y_crdn	:	0
+twst_angl_z_crdn	:	0
+covar_cont	:	[0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0]
+x_axis_drct	:	-0.019046791848949852
+y_axis_drct	:	-0.01892303660417494
+z_axis_drct	:	0.9990967730316533
+w_axis_drct	:	0.03293594576867403
+drct_covar_val	:	[0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0]
+x_axis_angl_sped	:	-4e-05
+y_axis_angl_sped	:	7.000000000000001e-05
+z_axis_angl_sped	:	-0.00045000000000000004
+angl_sped_covar_val	:	[0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0]
+x_axis_linr_acrat	:	0.3572
+y_axis_linr_acrat	:	0.35900000000000004
+z_axis_linr_acrat	:	9.744200000000001
+linr_acrat_covar_val	:	[0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0]
+	41		{35}
+coll_dt	:	2021-11-11-14-16-08
+coll_sqnc	:	00
+hdr_sqnc	:	3201
+ss_num	:	1636607768
+nano_ss_num	:	880129332
+ins_ss_num	:	1636607586
+ins_nano_ss_num	:	9999990
+src_cont	:	ins
+gps_stts_cd	:	04
+gps_srvc_dvsn_cd	:	01
+latitude	:	37.410948402776256
+longitude	:	127.0992977140882
+altitude	:	59.29853439331055
+lctn_covar_cont	:	[0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0]
+lctn_covar_type_cd	:	01
+twst_linr_x_crdn	:	0.0038
+twst_linr_y_crdn	:	-0.0025
+twst_linr_z_crdn	:	-0.0029
+twst_angl_x_crdn	:	0
+twst_angl_y_crdn	:	0
+twst_angl_z_crdn	:	0
+covar_cont	:	[0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0]
+x_axis_drct	:	-0.01905857503100938
+y_axis_drct	:	-0.018922323776839032
+z_axis_drct	:	0.9990968987920992
+w_axis_drct	:	0.03292572253849366
+drct_covar_val	:	[0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0]
+x_axis_angl_sped	:	0.0002
+y_axis_angl_sped	:	0.0024300000000000003
+z_axis_angl_sped	:	0.0019600000000000004
+angl_sped_covar_val	:	[0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0]
+x_axis_linr_acrat	:	0.379
+y_axis_linr_acrat	:	0.3907
+z_axis_linr_acrat	:	9.7917
+linr_acrat_covar_val	:	[0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0]
+	42		{35}
+coll_dt	:	2021-11-11-14-16-08
+coll_sqnc	:	00
+hdr_sqnc	:	3202
+ss_num	:	1636607768
+nano_ss_num	:	880129332
+ins_ss_num	:	1636607586
+ins_nano_ss_num	:	9999990
+src_cont	:	ins
+gps_stts_cd	:	04
+gps_srvc_dvsn_cd	:	01
+latitude	:	37.41094840390225
+longitude	:	127.09929771009553
+altitude	:	59.29848861694336
+lctn_covar_cont	:	[0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0]
+lctn_covar_type_cd	:	01
+twst_linr_x_crdn	:	0.0038
+twst_linr_y_crdn	:	-0.0022
+twst_linr_z_crdn	:	-0.0027
+twst_angl_x_crdn	:	0
+twst_angl_y_crdn	:	0
+twst_angl_z_crdn	:	0
+covar_cont	:	[0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0]
+x_axis_drct	:	-0.019051513929638938
+y_axis_drct	:	-0.018916949952870982
+z_axis_drct	:	0.9990969295509057
+w_axis_drct	:	0.03293196294516553
+drct_covar_val	:	[0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0]
+x_axis_angl_sped	:	0.00079
+y_axis_angl_sped	:	-0.00158
+z_axis_angl_sped	:	-0.00072
+angl_sped_covar_val	:	[0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0]
+x_axis_linr_acrat	:	0.3395
+y_axis_linr_acrat	:	0.3729
+z_axis_linr_acrat	:	9.8001
+linr_acrat_covar_val	:	[0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0]
+	43		{35}
+coll_dt	:	2021-11-11-14-16-08
+coll_sqnc	:	00
+hdr_sqnc	:	3203
+ss_num	:	1636607768
+nano_ss_num	:	880129332
+ins_ss_num	:	1636607586
+ins_nano_ss_num	:	9999990
+src_cont	:	ins
+gps_stts_cd	:	04
+gps_srvc_dvsn_cd	:	01
+latitude	:	37.41094840366986
+longitude	:	127.09929771054796
+altitude	:	59.2984504699707
+lctn_covar_cont	:	[0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0]
+lctn_covar_type_cd	:	01
+twst_linr_x_crdn	:	0.0039
+twst_linr_y_crdn	:	-0.0024
+twst_linr_z_crdn	:	-0.0032
+twst_angl_x_crdn	:	0
+twst_angl_y_crdn	:	0
+twst_angl_z_crdn	:	0
+covar_cont	:	[0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0]
+x_axis_drct	:	-0.01904025965829641
+y_axis_drct	:	-0.018925358279104982
+z_axis_drct	:	0.999097031635468
+w_axis_drct	:	0.032930543623644726
+drct_covar_val	:	[0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0]
+x_axis_angl_sped	:	-0.0016500000000000002
+y_axis_angl_sped	:	-0.0022500000000000003
+z_axis_angl_sped	:	0.00048000000000000007
+angl_sped_covar_val	:	[0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0]
+x_axis_linr_acrat	:	0.37470000000000003
+y_axis_linr_acrat	:	0.3673
+z_axis_linr_acrat	:	9.741800000000001
+linr_acrat_covar_val	:	[0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0]
+	44		{35}
+coll_dt	:	2021-11-11-14-16-08
+coll_sqnc	:	00
+hdr_sqnc	:	3204
+ss_num	:	1636607768
+nano_ss_num	:	880129332
+ins_ss_num	:	1636607586
+ins_nano_ss_num	:	9999990
+src_cont	:	ins
+gps_stts_cd	:	04
+gps_srvc_dvsn_cd	:	01
+latitude	:	37.410948403444436
+longitude	:	127.09929771094546
+altitude	:	59.29842758178711
+lctn_covar_cont	:	[0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0]
+lctn_covar_type_cd	:	01
+twst_linr_x_crdn	:	0.0039
+twst_linr_y_crdn	:	-0.0024
+twst_linr_z_crdn	:	-0.0029
+twst_angl_x_crdn	:	0
+twst_angl_y_crdn	:	0
+twst_angl_z_crdn	:	0
+covar_cont	:	[0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0]
+x_axis_drct	:	-0.019031041668316706
+y_axis_drct	:	-0.018921759892915817
+z_axis_drct	:	0.9990974315751108
+w_axis_drct	:	0.032925805617942075
+drct_covar_val	:	[0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0]
+x_axis_angl_sped	:	0.00071
+y_axis_angl_sped	:	-0.0018000000000000002
+z_axis_angl_sped	:	0.00111
+angl_sped_covar_val	:	[0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0]
+x_axis_linr_acrat	:	0.3627
+y_axis_linr_acrat	:	0.3829
+z_axis_linr_acrat	:	9.811
+linr_acrat_covar_val	:	[0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0]
+	45		{35}
+coll_dt	:	2021-11-11-14-16-08
+coll_sqnc	:	00
+hdr_sqnc	:	3205
+ss_num	:	1636607768
+nano_ss_num	:	880129332
+ins_ss_num	:	1636607586
+ins_nano_ss_num	:	9999990
+src_cont	:	ins
+gps_stts_cd	:	04
+gps_srvc_dvsn_cd	:	01
+latitude	:	37.41094840452248
+longitude	:	127.09929770707835
+altitude	:	59.29838180541992
+lctn_covar_cont	:	[0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0]
+lctn_covar_type_cd	:	01
+twst_linr_x_crdn	:	0.0038
+twst_linr_y_crdn	:	-0.0023
+twst_linr_z_crdn	:	-0.0029
+twst_angl_x_crdn	:	0
+twst_angl_y_crdn	:	0
+twst_angl_z_crdn	:	0
+covar_cont	:	[0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0]
+x_axis_drct	:	-0.0190486588194444
+y_axis_drct	:	-0.018928778630623266
+z_axis_drct	:	0.9990971767535904
+w_axis_drct	:	0.03291931560252145
+drct_covar_val	:	[0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0]
+x_axis_angl_sped	:	-0.00167
+y_axis_angl_sped	:	0.0034200000000000003
+z_axis_angl_sped	:	0.0014500000000000001
+angl_sped_covar_val	:	[0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0]
+x_axis_linr_acrat	:	0.3477
+y_axis_linr_acrat	:	0.38270000000000004
+z_axis_linr_acrat	:	9.7896
+linr_acrat_covar_val	:	[0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0]
+	46		{35}
+coll_dt	:	2021-11-11-14-16-08
+coll_sqnc	:	00
+hdr_sqnc	:	3206
+ss_num	:	1636607768
+nano_ss_num	:	880129332
+ins_ss_num	:	1636607586
+ins_nano_ss_num	:	9999990
+src_cont	:	ins
+gps_stts_cd	:	04
+gps_srvc_dvsn_cd	:	01
+latitude	:	37.41094840430254
+longitude	:	127.09929770756494
+altitude	:	59.29834747314453
+lctn_covar_cont	:	[0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0]
+lctn_covar_type_cd	:	01
+twst_linr_x_crdn	:	0.004
+twst_linr_y_crdn	:	-0.0023
+twst_linr_z_crdn	:	-0.0033
+twst_angl_x_crdn	:	0
+twst_angl_y_crdn	:	0
+twst_angl_z_crdn	:	0
+covar_cont	:	[0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0]
+x_axis_drct	:	-0.01905684975582272
+y_axis_drct	:	-0.018930374314433687
+z_axis_drct	:	0.999096766429818
+w_axis_drct	:	0.0329261099308917
+drct_covar_val	:	[0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0]
+x_axis_angl_sped	:	-0.0005200000000000001
+y_axis_angl_sped	:	0.0015600000000000002
+z_axis_angl_sped	:	-0.0014800000000000002
+angl_sped_covar_val	:	[0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0]
+x_axis_linr_acrat	:	0.3668
+y_axis_linr_acrat	:	0.3531
+z_axis_linr_acrat	:	9.7469
+linr_acrat_covar_val	:	[0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0]
+	47		{35}
+coll_dt	:	2021-11-11-14-16-08
+coll_sqnc	:	00
+hdr_sqnc	:	3207
+ss_num	:	1636607768
+nano_ss_num	:	880129332
+ins_ss_num	:	1636607586
+ins_nano_ss_num	:	9999990
+src_cont	:	ins
+gps_stts_cd	:	04
+gps_srvc_dvsn_cd	:	01
+latitude	:	37.41094840408512
+longitude	:	127.09929770795308
+altitude	:	59.29832458496094
+lctn_covar_cont	:	[0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0]
+lctn_covar_type_cd	:	01
+twst_linr_x_crdn	:	0.0039
+twst_linr_y_crdn	:	-0.0023
+twst_linr_z_crdn	:	-0.0029
+twst_angl_x_crdn	:	0
+twst_angl_y_crdn	:	0
+twst_angl_z_crdn	:	0
+covar_cont	:	[0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0]
+x_axis_drct	:	-0.019053760354267486
+y_axis_drct	:	-0.018930051919719623
+z_axis_drct	:	0.9990969608509497
+w_axis_drct	:	0.03292218354051018
+drct_covar_val	:	[0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0]
+x_axis_angl_sped	:	3.0000000000000004e-05
+y_axis_angl_sped	:	-0.0005700000000000001
+z_axis_angl_sped	:	0.0008700000000000001
+angl_sped_covar_val	:	[0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0]
+x_axis_linr_acrat	:	0.3632
+y_axis_linr_acrat	:	0.39830000000000004
+z_axis_linr_acrat	:	9.819700000000001
+linr_acrat_covar_val	:	[0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0]
+	48		{35}
+coll_dt	:	2021-11-11-14-16-08
+coll_sqnc	:	00
+hdr_sqnc	:	3208
+ss_num	:	1636607768
+nano_ss_num	:	880129332
+ins_ss_num	:	1636607586
+ins_nano_ss_num	:	9999990
+src_cont	:	ins
+gps_stts_cd	:	04
+gps_srvc_dvsn_cd	:	01
+latitude	:	37.41094840510987
+longitude	:	127.09929770421023
+altitude	:	59.29827880859375
+lctn_covar_cont	:	[0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0]
+lctn_covar_type_cd	:	01
+twst_linr_x_crdn	:	0.0038
+twst_linr_y_crdn	:	-0.0023
+twst_linr_z_crdn	:	-0.003
+twst_angl_x_crdn	:	0
+twst_angl_y_crdn	:	0
+twst_angl_z_crdn	:	0
+covar_cont	:	[0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0]
+x_axis_drct	:	-0.019045009049534635
+y_axis_drct	:	-0.018935274003648247
+z_axis_drct	:	0.9990968942144172
+w_axis_drct	:	0.03292626610801219
+drct_covar_val	:	[0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0]
+x_axis_angl_sped	:	-0.00125
+y_axis_angl_sped	:	-0.00199
+z_axis_angl_sped	:	-0.00036
+angl_sped_covar_val	:	[0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0]
+x_axis_linr_acrat	:	0.3637
+y_axis_linr_acrat	:	0.3798
+z_axis_linr_acrat	:	9.777700000000001
+linr_acrat_covar_val	:	[0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0]
+	49		{35}
+coll_dt	:	2021-11-11-14-16-08
+coll_sqnc	:	00
+hdr_sqnc	:	3209
+ss_num	:	1636607768
+nano_ss_num	:	880129332
+ins_ss_num	:	1636607586
+ins_nano_ss_num	:	9999990
+src_cont	:	ins
+gps_stts_cd	:	04
+gps_srvc_dvsn_cd	:	01
+latitude	:	37.41094840489953
+longitude	:	127.09929770469937
+altitude	:	59.29823684692383
+lctn_covar_cont	:	[0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0]
+lctn_covar_type_cd	:	01
+twst_linr_x_crdn	:	0.0041
+twst_linr_y_crdn	:	-0.0023
+twst_linr_z_crdn	:	-0.0035
+twst_angl_x_crdn	:	0
+twst_angl_y_crdn	:	0
+twst_angl_z_crdn	:	0
+covar_cont	:	[0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0]
+x_axis_drct	:	-0.019043749029296224
+y_axis_drct	:	-0.01892679628151315
+z_axis_drct	:	0.999097039943448
+w_axis_drct	:	0.032927447238856315
+drct_covar_val	:	[0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0]
+x_axis_angl_sped	:	0.00169
+y_axis_angl_sped	:	-0.00017
+z_axis_angl_sped	:	-6.000000000000001e-05
+angl_sped_covar_val	:	[0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0]
+x_axis_linr_acrat	:	0.3564
+y_axis_linr_acrat	:	0.3534
+z_axis_linr_acrat	:	9.738000000000001
+linr_acrat_covar_val	:	[0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0]
